@@ -1,0 +1,18 @@
+{
+    "prefix": "?",
+    "cogs": [
+        "cogs.8ball",
+        "cogs.blackhat",
+        "cogs.deviner",
+        "cogs.help",
+        "cogs.maniac",
+        "cogs.meme",
+        "cogs.ping",
+        "cogs.umair",
+        "cogs.unknown",
+	"cogs.manager"
+    ],
+    "roles": {
+        "on_join": "mofos"
+    }
+}
